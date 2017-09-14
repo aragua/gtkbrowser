@@ -1,0 +1,8 @@
+# gtkbrowser
+
+$ meson buildir
+$ cd buildir
+$ ninja
+$ ./browse
+	or
+$ ./browse "http://www.collabora.com"
